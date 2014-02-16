@@ -1,0 +1,20 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: Gorilla Mist PCB file.PcbDoc   12/31/2014  12:09:44 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Gorilla Mist PCB file.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        19.68mil (0.49987mm)     Round          70               12.74 Inch (323.48 mm)
+T2        35.43mil (0.89992mm)     Round          11               3.50 Inch (89.00 mm)
+T3        47.24mil (1.1999mm)      Round          6                2.73 Inch (69.44 mm)
+T4        62.99mil (1.59995mm)     Round          2                0.35 Inch (8.99 mm)
+T5        66.93mil (1.70002mm)     Round          8                2.96 Inch (75.08 mm)
+T6        100mil (2.54mm)          Round          8                4.01 Inch (101.98 mm)
+T7        118.11mil (2.99999mm)    Round          5                4.84 Inch (122.91 mm)
+---------------------------------------------------------------------------
+Totals                                            110              31.14 Inch (790.89 mm)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
