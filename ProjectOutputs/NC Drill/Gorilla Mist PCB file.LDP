@@ -1,2 +1,2 @@
-Layer Pairs Export File for PCB: C:\Users\zigron\OneDrive\Projects\Shamrock Green\Projects\gorilla mist project\gorilla mist project circuit design\source files\Gorilla Mist PCB file.PcbDoc
-LayersSetName=Top_Bot_Thru_Holes|DrillFile=gorilla mist pcb file.txt|LayerPairs=gtl,gbl
+Layer Pairs Export File for PCB: C:\Users\Azmat\OneDrive\Projects\Independent_Projects\gorilla mist project circuit design\source files\Gorilla Mist PCB file.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=gorilla mist pcb file-plated.txt|DrillLayers=gtl,gbl
